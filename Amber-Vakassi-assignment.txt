@@ -1,1 +1,2 @@
 As a retail pharmacist, there are various types of data that can be collected to improve the overall quality of preparing a medication for a patient. 
+An example of data that can be collected includes the efficacy and accuracy of having scripts e-scribed direclty to the Pharmacy. 
